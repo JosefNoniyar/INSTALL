@@ -68,11 +68,11 @@ D_C_R_DIRECTORY = "SETUP"
 DONT_CLONE_REPO = BB
 
 # Current working directory
-# directory = os.getcwd()
+directory = os.getcwd()
 
-# SKIP_D = D_C_R_DIRECTORY
+SKIP_D = D_C_R_DIRECTORY
 
 # Home directory
-directory = os.path.expanduser("~")
+# directory = os.path.expanduser("~")
 
-SKIP_D = "INSTALL"
+# SKIP_D = "INSTALL"
