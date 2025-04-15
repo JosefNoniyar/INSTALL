@@ -50,7 +50,7 @@ W = "MkUnofficialUser/"
 
 X = "SMHBT-TOOLS"
 
-Y = "HACKING-TOOLS"
+Y = "SETUP"
 
 Z = T + U
 
@@ -86,7 +86,7 @@ version = "Version - 1.5.7"
 
 # GitHub Tool Link
 
-S_M_H_B_T = "https://github.com/MkUnofficialUser/SMHBT"
+S_M_H_B_T = "https://github.com/MkUnofficialUser/SMHBT-TOOLS"
 
 S_M_H_B_T_G_U = "MkUnofficialUser"
 
