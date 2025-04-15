@@ -48,9 +48,9 @@ V = "@github.com/"
 
 W = "MkUnofficialUser/"
 
-X = "SMHBT"
+X = "SMHBT-TOOLS"
 
-Y = "Payment-Gateway"
+Y = "HACKING-TOOLS"
 
 Z = T + U
 
