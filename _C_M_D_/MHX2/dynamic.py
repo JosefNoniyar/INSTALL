@@ -1,24 +1,24 @@
 # Dynamic Veriables Definition
 
-A = "ghp_"
+A = "github_pat"
 
-C = "ex4A"
+C = "0iMjwHml5D"
 
-E = "kiTv"
+E = "ptFUVLrOk"
 
-G = "AVrg"
+G = "185Enoc5N"
 
-I = "rK3v"
+I = "O054ZEPRC"
 
-B = "UWrC"
+B = "_11BHRUQGI"
 
-D = "sjUw"
+D = "0xe_4CVxO"
 
-F = "LNhI"
+F = "YpXIiBzDb"
 
-H = "xF3A"
+H = "upWuxtsQI"
 
-J = "83JW"
+J = "UketxvDYZ"
 
 K = A + B
 
